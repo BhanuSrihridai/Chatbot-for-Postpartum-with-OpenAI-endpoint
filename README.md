@@ -32,10 +32,6 @@ The Postpartum Care Chatbot is an AI-powered conversational assistant designed t
 
 Contributions to the Postpartum Care Chatbot project are welcome! If you'd like to improve the chatbot's capabilities, enhance its responses, or add new features, feel free to fork the repository and submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgments
 
 I am grateful to OpenAI for providing access to the GPT-3.5 Turbo model, which played a significant role in developing this chatbot. Special thanks to the postpartum care specialists and new mothers who participated in the evaluation and provided valuable feedback.
