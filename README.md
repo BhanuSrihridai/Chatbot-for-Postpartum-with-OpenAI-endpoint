@@ -22,7 +22,7 @@ The Postpartum Care Chatbot is an AI-powered conversational assistant designed t
 
 ## Setup and Installation
 
-1. **Requirements**: Ensure you have Python and the necessary libraries installed as specified in the requirements.txt file.
+1. **Requirements**: Ensure you have Python and the necessary libraries installed.
 
 2. **API Key**: Obtain an API key from OpenAI to use their GPT-3.5 Turbo model.
 
